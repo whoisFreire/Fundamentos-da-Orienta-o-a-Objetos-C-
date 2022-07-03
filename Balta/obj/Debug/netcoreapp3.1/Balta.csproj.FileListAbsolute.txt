@@ -1,0 +1,13 @@
+C:\dev\Balta\Balta\bin\Debug\netcoreapp3.1\Balta.exe
+C:\dev\Balta\Balta\bin\Debug\netcoreapp3.1\Balta.deps.json
+C:\dev\Balta\Balta\bin\Debug\netcoreapp3.1\Balta.runtimeconfig.json
+C:\dev\Balta\Balta\bin\Debug\netcoreapp3.1\Balta.runtimeconfig.dev.json
+C:\dev\Balta\Balta\bin\Debug\netcoreapp3.1\Balta.dll
+C:\dev\Balta\Balta\bin\Debug\netcoreapp3.1\Balta.pdb
+C:\dev\Balta\Balta\obj\Debug\netcoreapp3.1\Balta.csprojAssemblyReference.cache
+C:\dev\Balta\Balta\obj\Debug\netcoreapp3.1\Balta.AssemblyInfoInputs.cache
+C:\dev\Balta\Balta\obj\Debug\netcoreapp3.1\Balta.AssemblyInfo.cs
+C:\dev\Balta\Balta\obj\Debug\netcoreapp3.1\Balta.csproj.CoreCompileInputs.cache
+C:\dev\Balta\Balta\obj\Debug\netcoreapp3.1\Balta.dll
+C:\dev\Balta\Balta\obj\Debug\netcoreapp3.1\Balta.pdb
+C:\dev\Balta\Balta\obj\Debug\netcoreapp3.1\Balta.genruntimeconfig.cache
